@@ -8,6 +8,15 @@ UFrame is a social photo sharing "game." You take a picture somewhere on campus,
 ### Genja Teleganov
 > I am a junior CS major with a focus in networking. I've interned at a SDN company for the past two years. In that time I've done a lot with both front and back end web development in Ruby on Rails and JavaScript (and the Ember.js framework). I'm pretty good with anything related to design/music/video production.
 
+#### CS Courses
+> CS 121, 187  
+CS 220, 230, 240, 250  
+Currently taking: CS 320, 326, 453
+
+#### 2 Non-CS Courses
+> **Anthropology 208:** Enjoyed the class. Learned about human ecology on a global and local scale. Ended up being one of the most life-applicable courses I've taken.  
+  **Sociology 110:** Learned a lot about group dynamics, social networks (not online) and advertising/marketing.
+
 -----------
 
 ### Alexey Novokshonov
@@ -28,13 +37,13 @@ UFrame is a social photo sharing "game." You take a picture somewhere on campus,
 > And is only getting larger.
 
 #### Previous CS Courses
-all courses below have the CMPSCI title before the class number
+> all courses below have the CMPSCI title before the class number
 
--121  
--187  
--197C, 197U  
--220, 230, 240, 250  
--Currently enrolled: 311, 326
+> -121  
+  -187  
+  -197C, 197U  
+  -220, 230, 240, 250  
+  -Currently enrolled: 311, 326
 
 #### Other Previous Courses
 
