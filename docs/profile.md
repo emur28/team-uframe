@@ -79,7 +79,7 @@ Jquery, Node.js
 
 -----------
 
-### Paul
+### Paul Edwards
 > Paul Edwards is a CS-major and senir of Umass Amherst. Paul has a moderate knowledge of HTML, CSS, and JS, along with Java, and C++. Besides computers, paul grew up in the rural town of Charlton MA, and enjoys the outdoors and fishing.
 
 ##### CS Courses
