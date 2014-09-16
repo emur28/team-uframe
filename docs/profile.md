@@ -1,4 +1,4 @@
-![uframe_logo](https://github.com/umass-cs-326/team-uframe/raw/master/docs/uframe-logo1.png)
+﻿![uframe_logo](https://github.com/umass-cs-326/team-uframe/raw/master/docs/uframe-logo1.png)
 
 
 UFrame is a social photo sharing "game." You take a picture somewhere on campus, then it's a race for others to take a picture of the same thing from the same place. Each match scores you a point. Scores will be ranked in leaderboards where you can compete with friends.
@@ -81,4 +81,13 @@ Jquery, Node.js
 -----------
 
 ### Paul
-> 404 NOT FOUND
+> Paul Edwards is a CS-major and senir of Umass Amherst. Paul has a moderate knowledge of HTML, CSS, and JS, along with Java, and C++. Besides computers, paul grew up in the rural town of Charlton MA, and enjoys the outdoors and fishing.
+
+##### CS Courses
+> CS 121, 187
+  CS 220, 230, 240, 250
+  CS 311, 383
+  Currently Taking: CS 320, 326, 377, 453
+
+##### 2 Non-CS Courses
+> Paul's favorite non-CS class would be "Linear Algebra" and "Physics 151". They are his favorite because they allow him to better connect and understand the world around him.
