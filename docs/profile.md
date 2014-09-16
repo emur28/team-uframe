@@ -76,10 +76,10 @@ Jquery, Node.js
   
 ##### 2 Non-CS Courses
 > His two favorite non-CS courses are "Tutoring Writing: Theory + Practice" as well as "Linear Algebra". Always looking for a challenge, Eddie liked these courses because they brought him out of his comfort zone and taught him valuable tools to use throughout his career path.  
-![eddiemurphy](http://mostfamousperson.net/EddieMurphy.png)
 
 -----------
 
+<<<<<<< HEAD
 ### Paul
 > Paul Edwards is a CS-major and senir of Umass Amherst. Paul has a moderate knowledge of HTML, CSS, and JS, along with Java, and C++. Besides computers, paul grew up in the rural town of Charlton MA, and enjoys the outdoors and fishing.
 
@@ -91,3 +91,16 @@ Jquery, Node.js
 
 ##### 2 Non-CS Courses
 > Paul's favorite non-CS class would be "Linear Algebra" and "Physics 151". They are his favorite because they allow him to better connect and understand the world around him.
+=======
+### Paul Edwards
+> Paul Edwards is a CS-major and senior of Umass Amherst. Paul has a moderate knowledge of HTML, CSS, and JS, along with Java, and C++. Besides computers, paul grew up in the rural town of Charlton MA, and enjoys the outdoors and fishing.
+
+##### CS Courses
+> CS 121, 187  
+  CS 220, 230, 240, 250  
+  CS 311, 383  
+  Currently Taking: CS 320, 326, 377, 453
+
+##### 2 Non-CS Courses
+> Paul's favorite non-CS class would be "Linear Algebra" and "Physics 151". They are his favorite because they allow him to better connect and understand the world around him.
+>>>>>>> 94e10140adf36ca277fc89755c39d09bc38b5f94
