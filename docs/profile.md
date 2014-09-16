@@ -73,6 +73,10 @@ Jquery, Node.js
 ##### CS Courses
 > CS 121, 187  
   CS 220, 230, 240, 250
+  
+##### 2 Non-CS Courses
+> TBD  
+![eddiemurphy](http://mostfamousperson.net/EddieMurphy.png)
 
 -----------
 
