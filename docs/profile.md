@@ -1,11 +1,10 @@
 UFrame
 ====
--------
 
 UFrame is a social photo sharing "game." You take a picture somewhere on campus, then it's a race for others to take a picture of the same thing from the same place. Each match scores you a point. Scores will be ranked in leaderboards where you can compete with friends.
 
 ##Bios
------
+
 ### Genja Teleganov
 > I am a junior CS major with a focus in networking. I've interned at a SDN company for the past two years. In that time I've done a lot with both front and back end web development in Ruby on Rails and JavaScript (and the Ember.js framework). I'm pretty good with anything related to design/music/video production.
 
@@ -49,5 +48,5 @@ These were courses I really took something out of even though I took them mainly
 ### Daniel Lipeles
 > I am a Junior CS major at Umass who enjoys programming as well as the theory behind computation. A few courses I have really enjoyed are CMPSCI 187, as well as CMPSCI 240. I am looking to attend graduate school after I receive my degree. Another class I have enjoyed was MUSIC 112, which dealt with the musical principles behind composition. Lastly, I enjoyed PHYSICS 151 as it gave me a good intuition about the world around us, and how objects interact. I am eager to work with my teammates in web development and believe that our efforts combined will provide fruitful results. 
 
-> All CS classes I have taken: CS 121, CS 187, CS 220, CS 230, CS 240, CS 250
+> All CS classes I have taken: CS 121, CS 187, CS 220, CS 230, CS 240, CS 250  
 > Currently taking: CS 311, CS 326, CS 390MB
