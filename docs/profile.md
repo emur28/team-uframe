@@ -6,7 +6,7 @@ UFrame is a social photo sharing "game." You take a picture somewhere on campus,
 ##Bios
 
 ### Genja Teleganov
-> I am a junior CS major with a focus in networking. I've interned at a SDN company for the past two years. In that time I've done a lot with both front and back end web development in Ruby on Rails and JavaScript (and the Ember.js framework). I'm pretty good with anything related to design/music/video production.
+> I am a junior CS major with a focus in networking. I've interned at a SDN company for the past two years. In that time I've done a lot with both front and back end web development in Ruby on Rails and JavaScript (and the Ember.js framework) but no Node.js so I am looking forward to it. I'm pretty good with anything related to design/music/video production.
 
 ##### CS Courses
 > CS 121, 187  
