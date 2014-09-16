@@ -1,5 +1,5 @@
-UFrame
-====
+![uframe_logo](https://github.com/umass-cs-326/team-uframe/raw/master/docs/uframe-logo1.png)
+
 
 UFrame is a social photo sharing "game." You take a picture somewhere on campus, then it's a race for others to take a picture of the same thing from the same place. Each match scores you a point. Scores will be ranked in leaderboards where you can compete with friends.
 
