@@ -72,7 +72,7 @@ Jquery, Node.js
 
 ##### CS Courses
 > CS 121, 187  
-  CS 220, 230, 240, 250 \r
+  CS 220, 230, 240, 250
   Currently taking: CS 320, 326
  
 ##### 2 Non-CS Courses
