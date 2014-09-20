@@ -74,7 +74,7 @@ Jquery, Node.js
 > CS 121, 187  
   CS 220, 230, 240, 250 \r
   Currently taking: CS 320, 326
-  
+ 
 ##### 2 Non-CS Courses
 > His two favorite non-CS courses are "Tutoring Writing: Theory + Practice" as well as "Linear Algebra". Always looking for a challenge, Eddie liked these courses because they brought him out of his comfort zone and taught him valuable tools to use throughout his career path.  
 
