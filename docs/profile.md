@@ -59,7 +59,7 @@ Jquery, Node.js
 
 ##### CS Courses
 > CS 121, 187  
-  CS 220, 230, 240, 250  
+  CS 220, 230, 240, 250  \r
   Currently taking: CS 311, 326, 390MB
   
 ##### 2 Non-CS Courses
